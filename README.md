@@ -4,7 +4,7 @@
 <!--ts-->
    * [1) Reverse a List](#reverse-a-list)
    * [2) Insert Shift Array](#Insert-Shift-Array)
-   * [3) Array Binary Search](#array_binary_search)
+   * [3) Array Binary Search](#Array-Binary-Search)
      
 <!--te--> 
 
