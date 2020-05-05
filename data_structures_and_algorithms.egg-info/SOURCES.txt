@@ -8,3 +8,4 @@ data_structures_and_algorithms/challenges/array_binary_search/array_binary_searc
 data_structures_and_algorithms/challenges/array_reverse/array_reverse.py
 data_structures_and_algorithms/challenges/array_shift/array_shift.py
 data_structures_and_algorithms/challenges/array_shift/array_shift_teamsolution.py
+data_structures_and_algorithms/challenges/matrix_sum/matrix_sum.py
