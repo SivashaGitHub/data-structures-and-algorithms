@@ -5,6 +5,7 @@
    * [1) Reverse a List](#reverse-a-list)
    * [2) Insert Shift Array](#Insert-Shift-Array)
    * [3) Array Binary Search](#Array-Binary-Search)
+   * [4) linked_list](#linked-list)
      
 <!--te--> 
 
@@ -81,4 +82,24 @@ call the function with array value and search value and ensure correct index is 
 
 ## Solution
 [White Board -Array Binary Search](assets/array_binary_search.jpg)
+
+# linked list
+Write python code to create linked list to capture charactor and print the charatores stored on linked list.
+
+---
+
+## Challenge
+use linked list to capture the charator and print a string with all the charator stored on each node.  
+
+---
+
+## Approach And Efficiency
+
+Create a linkedlist class with head attribute.
+Create another class as Node with value and next attributes.
+create a function insert to insert the node values and cerate a function called "toString" to print the string 
+Teest the linked in function with test driven environment
+
+---
+
 
